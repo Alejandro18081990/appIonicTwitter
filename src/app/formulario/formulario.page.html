@@ -1,0 +1,11 @@
+<ion-header [translucent]="true">
+  <app-toolbar></app-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-card>
+    <ion-item><ion-input [(ngModel)]="usuario" placeholder="Escribe tu nombre de usuario"></ion-input></ion-item>
+    <ion-item><ion-input [(ngModel)]="publicacion" placeholder="Escribe tu tweet"></ion-input></ion-item>
+  </ion-card>
+  <ion-button color="secondary" (click)="addPublicacion()"><ion-icon name="save-outline"></ion-icon></ion-button>
+</ion-content>

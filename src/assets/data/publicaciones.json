@@ -1,0 +1,233 @@
+{
+  "publicaciones": [
+    {
+      "id": 1,
+      "usuario": "user123",
+      "contenido": "¡Hola a todos! Esta es mi primera publicación.",
+      "likes": 10,
+      "respuestas": [
+        {
+          "id_respuesta": 1,
+          "usuario": "otro_usuario",
+          "contenido": "¡Hola! Bienvenido a la red social."
+        },
+        {
+          "id_respuesta": 2,
+          "usuario": "user456",
+          "contenido": "¡Saludos! Espero que disfrutes tu estancia aquí."
+        },
+        {
+          "id_respuesta": 3,
+          "usuario": "user789",
+          "contenido": "¡Qué gran día para comenzar!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "usuario": "another_user",
+      "contenido": "Compartiendo algunas fotos del viaje.",
+      "likes": 5,
+      "respuestas": [
+        {
+          "id_respuesta": 4,
+          "usuario": "user890",
+          "contenido": "¡Qué hermosas fotos! 😍"
+        },
+        {
+          "id_respuesta": 5,
+          "usuario": "user901",
+          "contenido": "Me encanta el lugar, ¡debe ser increíble estar allí!"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "usuario": "user456",
+      "contenido": "¡Feliz viernes a todos! #ViernesDeAlegría",
+      "likes": 20,
+      "respuestas": [
+        {
+          "id_respuesta": 6,
+          "usuario": "user567",
+          "contenido": "¡Feliz viernes para ti también! 😊"
+        },
+        {
+          "id_respuesta": 7,
+          "usuario": "user678",
+          "contenido": "¡Disfruta tu fin de semana!"
+        },
+        {
+          "id_respuesta": 8,
+          "usuario": "user789",
+          "contenido": "¡El mejor día de la semana! 🎉"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "usuario": "user123",
+      "contenido": "¿Alguien más ama el café tanto como yo? ☕️",
+      "likes": 15,
+      "respuestas": [
+        {
+          "id_respuesta": 9,
+          "usuario": "user234",
+          "contenido": "¡El café es vida! 😄"
+        },
+        {
+          "id_respuesta": 10,
+          "usuario": "user345",
+          "contenido": "No puedo empezar mi día sin café."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "usuario": "otro_usuario",
+      "contenido": "¡Estoy emocionado por el próximo evento de la comunidad!",
+      "likes": 8,
+      "respuestas": [
+        {
+          "id_respuesta": 11,
+          "usuario": "user456",
+          "contenido": "¡Yo también! Siempre son increíbles."
+        },
+        {
+          "id_respuesta": 12,
+          "usuario": "user567",
+          "contenido": "¡No puedo esperar! 🎉"
+        },
+        {
+          "id_respuesta": 13,
+          "usuario": "user678",
+          "contenido": "¡Va a ser grandioso!"
+        }
+      ]
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "usuario": "fgh",
+      "contenido": "mgj",
+      "id": 10,
+      "likes": 0,
+      "respuestas": [
+        {
+          "usuario": "",
+          "contenido": ""
+        }
+      ]
+    },
+    {
+      "id": 5454,
+      "likes": 0,
+      "respuestas": [
+        {
+          "usuario": "",
+          "contenido": ""
+        }
+      ]
+    },
+    {
+      "usuario": "sdasdasdasdasdasd",
+      "contenido": "asdasd",
+      "id": 9,
+      "likes": 0,
+      "respuestas": [
+        {
+          "usuario": "",
+          "contenido": ""
+        }
+      ]
+    },
+    {
+      "usuario": "a",
+      "contenido": "a",
+      "id": 11,
+      "likes": 0,
+      "respuestas": [
+        {
+          "usuario": "",
+          "contenido": ""
+        }
+      ]
+    },
+    {
+      "usuario": "as",
+      "contenido": "as",
+      "id": 12,
+      "likes": 0,
+      "respuestas": [
+        {
+          "usuario": "",
+          "contenido": ""
+        }
+      ]
+    },
+    {
+      "usuario": "asas",
+      "contenido": "asas",
+      "id": 13,
+      "likes": 0,
+      "respuestas": [
+        {
+          "usuario": "",
+          "contenido": ""
+        }
+      ]
+    },
+    {
+      "usuario": "sssssssssssssssssssssssssssssssss",
+      "contenido": "sssssssssssssss",
+      "id": 14,
+      "likes": 0,
+      "respuestas": [
+        {
+          "usuario": "",
+          "contenido": ""
+        }
+      ]
+    },
+    {
+      "usuario": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "contenido": "wwwwwwwwwwwwwwwww",
+      "id": 15,
+      "likes": 0,
+      "respuestas": [
+        {
+          "usuario": "",
+          "contenido": ""
+        }
+      ]
+    },
+    {
+      "usuario": "hhhhhhhhhhhhhhh",
+      "contenido": "ggggggggggg",
+      "id": 16,
+      "likes": 0,
+      "respuestas": [
+        {
+          "usuario": "",
+          "contenido": ""
+        }
+      ]
+    },
+    {
+      "usuario": "lllllllllllllllllllllllllllllllllllllll",
+      "contenido": "lllllllllllllllllllllllllllllllllllllllllllllllll",
+      "id": 17,
+      "likes": 0,
+      "respuestas": [
+        {
+          "usuario": "",
+          "contenido": ""
+        }
+      ]
+    }
+  ]
+}

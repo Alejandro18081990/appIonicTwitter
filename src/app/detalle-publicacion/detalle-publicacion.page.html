@@ -1,0 +1,25 @@
+<ion-header>
+  <ion-title *ngIf="publicacion != undefined">Publicacion de {{publicacion.usuario}}</ion-title>
+  <app-toolbar></app-toolbar>
+  
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-card *ngIf="publicacion!=undefined" color="secondary">
+    <ion-card-content>
+      <ion-item>Usuario: {{publicacion.usuario}}</ion-item>
+      <ion-item>Tweet: {{publicacion.contenido}}</ion-item>
+      <ion-item>Likes: {{publicacion.likes}}</ion-item>
+    </ion-card-content>
+  </ion-card>
+
+  
+<ion-accordion-group color="secondary" *ngIf="publicacion!=undefined">
+  <ion-accordion value="first" *ngFor="let respuesta of publicacion.respuestas">
+    <ion-item slot="header" color="light">
+      <ion-label>{{respuesta.usuario}}</ion-label>
+    </ion-item>
+    <div class="ion-padding" slot="content">{{respuesta.contenido}}</div>
+  </ion-accordion>
+</ion-accordion-group>  
+</ion-content>
